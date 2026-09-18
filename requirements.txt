@@ -1,4 +1,5 @@
-streamlitpython-3.11
+streamlit
 tensorflow
 numpy
 pillow
+python-3.11
